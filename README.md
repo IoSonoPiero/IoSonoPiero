@@ -1,4 +1,6 @@
 ### Hi there 👋
+- 🌱 I’m currently learning Kotlin and Android
+- 👯 I’m looking to collaborate on very small project
 
 <!--
 **IoSonoPiero/IoSonoPiero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
