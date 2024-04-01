@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🌱 I’m currently learning Kotlin and Android
+- 🌱 I’d like to be fluent with Kotlin and Android.
 - 👯 I would like to collaborate on a small project. Contact me if I can help you.
 
 <!--
